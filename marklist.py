@@ -1,0 +1,7 @@
+Name=input("enter your name:")
+Age=int(input("enter your age:"))
+Dob=input("enter your dob:")
+Qualfication=input("enter your qualificatioon :")
+Father_name=input("enter your father name:")
+Mother_name=input("enter your mother name:")
+Address=input("enter your address:")
